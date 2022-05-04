@@ -12,5 +12,8 @@ export class DetailComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  addNewRecrue(){
+
+  }
 
 }

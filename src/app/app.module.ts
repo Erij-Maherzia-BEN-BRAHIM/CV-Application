@@ -7,6 +7,8 @@ import { ListeComponent } from './liste/liste.component';
 import { ItemComponent } from './item/item.component';
 import { DetailComponent } from './detail/detail.component';
 import { SurvolDirDirective } from './survol-dir.directive';
+import { ListeRecrutesComponent } from './liste-recrutes/liste-recrutes.component';
+import { RecruterComponent } from './recruter/recruter.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -15,6 +17,8 @@ import { SurvolDirDirective } from './survol-dir.directive';
     ItemComponent,
     DetailComponent,
     SurvolDirDirective,
+    ListeRecrutesComponent,
+    RecruterComponent,
     
   ],
   imports: [
